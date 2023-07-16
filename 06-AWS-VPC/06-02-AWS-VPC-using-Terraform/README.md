@@ -1,4 +1,4 @@
-# Design a 3 Tier AWS VPC with NAT Gateways using Terraform
+# Design a 3 Tier AWS VPC with NAT Gateways using Terraform(IaC)
 
 ## Step-01: Introduction
 - Understand about Terraform Modules
