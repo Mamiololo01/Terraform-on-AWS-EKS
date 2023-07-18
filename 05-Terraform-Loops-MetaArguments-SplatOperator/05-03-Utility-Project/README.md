@@ -1,5 +1,6 @@
 # Terraform Small Utility Project 
 
+
 ## Step-01: Introduction
 ### Current Problem: 
 - We are not able to create EC2 Instances in all the subnets of our VPC which are spread across all availability zones in that region
