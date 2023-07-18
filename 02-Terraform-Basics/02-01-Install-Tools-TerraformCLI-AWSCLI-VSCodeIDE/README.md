@@ -16,6 +16,7 @@
 mkdir /Users/<YOUR-USER>/Documents/terraform-install
 COPY Package to "terraform-install" folder
 
+
 # Unzip
 unzip <PACKAGE-NAME>
 unzip terraform_0.14.3_darwin_amd64.zip
